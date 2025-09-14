@@ -1,6 +1,5 @@
 # About me
 ## Hwang Jimin
-### Frontend Developer
 
 ---
 
@@ -59,11 +58,3 @@ Git, GitHub, Postman, Figma, Notion
 - 스택  Python, PyTorch, YOLOv8 pose, Accelerometer, UR Fall Dataset
 
 ---
-
-## 🎓 Education
-- 삼성 청년 SW AI 아카데미 2025  
-- 동국대학교 수학과 복수전공 컴퓨터공학과
-
-## 📫 Contact
-- Email  jamieh03@naver.com
-- GitHub  github.com/jiminh03
