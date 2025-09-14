@@ -1,7 +1,4 @@
-# About me
 ## Hwang Jimin
-
----
 
 ## 🛠️ 기술 스택
 
