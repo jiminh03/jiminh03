@@ -1,5 +1,5 @@
 # About me
-## Hwang Ji Min
+## Hwang Jimin
 ### Frontend Developer
 
 ---
