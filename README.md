@@ -2,7 +2,7 @@
 
 ### ⚙️ 프로그래밍 언어
 Python, Java, C, JavaScript, TypeScript  
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,C,js,ts)](https://skillicons.dev)
 
 ### 🖥️ 프론트엔드
 HTML5, CSS3, Vue.js, React, React Native  
