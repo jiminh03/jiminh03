@@ -1,8 +1,8 @@
 ## 🛠️ 기술 스택
 
 ### ⚙️ 프로그래밍 언어
-Python, Java, JavaScript, TypeScript  
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts)](https://skillicons.dev)
+Python, Java, C, JavaScript, TypeScript  
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts)](https://skillicons.dev)
 
 ### 🖥️ 프론트엔드
 HTML5, CSS3, Vue.js, React, React Native  
@@ -21,8 +21,9 @@ SQLite
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 ### 🤝 협업 · 기타
-Git, GitHub, Postman, Figma, Notion  
+Git, GitHub, Postman, Figma, Notion, Jira
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma,notion)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="48" alt="Jira" />
 
 ---
 
