@@ -21,7 +21,7 @@ SQLite
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 ### 🤝 협업 · 기타
-Git, GitHub, Postman, Figma, Notion, Jira
+Git, GitHub, Postman, Figma, Notion, Jira     
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma,notion)](https://skillicons.dev)
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="48" alt="Jira" />
 
