@@ -1,7 +1,7 @@
 # 👋 안녕하세요, **황지민**입니다
 ### 프론트엔드 개발자 | 삼성 청년 SW·AI 아카데미(SSAFY) 13기 (Python 트랙)     
 [![자세히 보기 (Notion)](https://img.shields.io/badge/이력서_자세히_보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2553cc1e521e80629bf9c4af1be128b3?source=copy_link)
-[![Download PDF](https://img.shields.io/badge/📄_포트폴리오_PDF_다운로드-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/jiminh03/황지민-포트폴리오.pdf)    
+[![Download PDF](https://img.shields.io/badge/📄_포트폴리오_PDF_다운로드-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/jiminh03/blob/master/황지민-포트폴리오.pdf)    
 
 ## 🛠️ 기술 스택
 
