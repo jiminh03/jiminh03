@@ -34,7 +34,7 @@ Git, GitHub, Postman, Figma, Notion, Jira
 
 ## ⭐ 프로젝트 요약
 
-### 1. SST (Senior Safe Things) 독거 어르신 실시간 모니터링 및 위험 감지 플랫폼 [(repo)](https://github.com/jiminh03/SST)
+### 1. Senior Safe Things (SST) 독거 어르신 실시간 모니터링 및 위험 감지 플랫폼 [(repo)](https://github.com/jiminh03/SST)
 - 역할 – 프론트엔드, TypeScript 기반 React로 실시간 대시보드·WebRTC 뷰어·알림 UX 구현
 - 핵심 – IoT 센서 실시간 모니터링, 위험 등급별 알림, 보호자 현장 스트리밍
 - 구조 – WebSocket + WebRTC 기반 초저지연 통신
