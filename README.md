@@ -35,12 +35,12 @@ Git, GitHub, Postman, Figma, Notion, Jira
 ## ⭐ 프로젝트 요약
 
 ### 1. Senior Safe Things (SST) 독거 어르신 실시간 모니터링 및 위험 감지 플랫폼 [(repo)](https://github.com/jiminh03/SST)
-- 역할 – 프론트엔드, TypeScript 기반 React로 실시간 대시보드·WebRTC 뷰어·알림 UX 구현
-- 핵심 – IoT 센서 실시간 모니터링, 위험 등급별 알림, 보호자 현장 스트리밍
-- 구조 – WebSocket + WebRTC 기반 초저지연 통신
-- 문제 해결 – WebRTC 끊김 분석 및 재협상 로직 구현, 로그 UTC 통일로 디버깅 효율화
-- 협업 – Figma·Jira·Notion 기반
-- 스택 – React, TypeScript, Vite, Socket.IO, WebRTC, Tailwind CSS, Spring Boot, Redis, FastAPI, MQTT, Unity
+- 역할 - 프론트엔드, TypeScript 기반 React로 실시간 대시보드·WebRTC 뷰어·알림 UX 구현
+- 핵심 - IoT 센서 실시간 모니터링, 위험 등급별 알림, 보호자 현장 스트리밍
+- 구조 - WebSocket + WebRTC 기반 초저지연 통신
+- 문제 해결 - WebRTC 끊김 분석 및 재협상 로직 구현, 로그 UTC 통일로 디버깅 효율화
+- 협업 - Figma·Jira·Notion 기반
+- 스택 - React, TypeScript, Vite, Socket.IO, WebRTC, Tailwind CSS, Spring Boot, Redis, FastAPI, MQTT, Unity
 
 ### 2. 플랜잇 Planit  AI 기반 감정 소비 분석 가계부 웹 서비스  [(repo)](https://github.com/jiminh03/Planit)
 - 역할 - Django REST 백엔드, DB 모델링, API 설계, Vue 연동
