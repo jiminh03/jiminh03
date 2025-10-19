@@ -31,6 +31,7 @@ Git · GitHub · Postman · Figma · Notion · Jira
 ## 🌟 주요 프로젝트
 
 ### 🏠 [**Senior Safe Things (SST)**](https://github.com/jiminh03/SST)
+🏆SSAFY 13기 특화 프로젝트 우수상🏆
 > 독거 어르신 실시간 모니터링 및 위험 감지 플랫폼  
 **역할:** 프론트엔드 (React, TypeScript)  
 - 실시간 대시보드, WebRTC 스트리밍 뷰어, 알림 UX 구현  
