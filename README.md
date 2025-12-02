@@ -59,8 +59,10 @@ Git · GitHub · Postman · Figma · Notion · Jira
 ### ⚾ [**BBATTY**](https://github.com/jiminh03/BBATTY)
 > 야구 팬 직관 인증 및 커뮤니티 앱  
 **역할:** 프론트엔드 (React Native)  
-- 팀별 게시판 댓글 랭킹, AI 뉴스 피드, 경기 푸시 알림  
-- React Query + Axios 기반 데이터 흐름 관리  
+- 팀별 게시판, 댓글, 인기글 랭킹 UI 구현    
+- AI 기반 뉴스 피드 카드 UI 구성     
+- 팀별 브랜드 컬러 테마 적용     
+- 이미지 업로드 및 예외 처리 로직 구현   
 - **스택:** React Native Expo, TypeScript, Axios, Firebase Cloud Messaging  
 
 ---
