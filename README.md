@@ -55,6 +55,16 @@ Git · GitHub · Postman · Figma · Notion · Jira
 
 ---
 
+
+### ⚾ [**BBATTY**](https://github.com/jiminh03/BBATTY)
+> 야구 팬 직관 인증 및 커뮤니티 앱  
+**역할:** 프론트엔드 (React Native)  
+- 팀별 게시판 댓글 랭킹, AI 뉴스 피드, 경기 푸시 알림  
+- React Query + Axios 기반 데이터 흐름 관리  
+- **스택:** React Native Expo, TypeScript, Axios, Firebase Cloud Messaging  
+
+---
+
 ### 💸 [**Planit**](https://github.com/jiminh03/Planit)
 > 감정 기반 소비 분석 가계부 웹 서비스  
 **역할:** 풀스택 (Vue.js, Django)  
@@ -65,14 +75,6 @@ Git · GitHub · Postman · Figma · Notion · Jira
 
 ---
 
-### ⚾ [**BBATTY**](https://github.com/jiminh03/BBATTY)
-> 야구 팬 직관 인증 및 커뮤니티 앱  
-**역할:** 프론트엔드 (React Native)  
-- 팀별 게시판 댓글 랭킹, AI 뉴스 피드, 경기 푸시 알림  
-- React Query + Axios 기반 데이터 흐름 관리  
-- **스택:** React Native Expo, TypeScript, Axios, Firebase Cloud Messaging  
-
----
 
 ### 🧍‍♂️ [**가정 내 RGB 영상 기반 위험 감지 시스템**]() *(산학협력 프로젝트)*  
 > RGB 영상만으로 행동을 분류하여 위험 상황을 감지하는 시스템  
