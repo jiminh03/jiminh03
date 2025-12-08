@@ -78,7 +78,7 @@ Git · GitHub · Postman · Figma · Notion · Jira
 ---
 
 
-### 🧍‍♂️ [**가정 내 RGB 영상 기반 위험 감지 시스템**]() *(산학협력 프로젝트)*  
+### 🧍‍♂️ [**가정 내 RGB 영상 기반 위험 감지 시스템**](https://github.com/jiminh03/danger_detection_pjt) *(산학협력 프로젝트)*  
 > RGB 영상만으로 행동을 분류하여 위험 상황을 감지하는 시스템  
 **역할:** 팀장 (모델 설계 및 데이터 파이프라인 총괄)  
 - Tiny YOLO + AlphaPose + ST-GCN 모델 구성  
