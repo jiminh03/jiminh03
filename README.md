@@ -6,24 +6,24 @@
 ## 🛠️ 기술 스택
 
 ### ⚙️ 프로그래밍 언어
-Python · JavaScript · TypeScript · Java · C      
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c)](https://skillicons.dev)
+Python · JavaScript · TypeScript    
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
 ### 🖥️ 프론트엔드
-HTML5 · CSS3 · Vue.js · React · React Native  
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,react)](https://skillicons.dev)
+HTML5 · CSS3 · Vue.js · React · React Native  · Next.js   
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,react,next)](https://skillicons.dev)
 
 ### 🧩 백엔드
-Django · Django REST Framework    
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+Django · Django REST Framework  · FastAPI   
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi)](https://skillicons.dev)
 
 ### 🗄️ 데이터베이스
-SQLite  
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+SQLite  · PostgreSQL   
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql)](https://skillicons.dev)
 
 ### 🤝 협업 · 기타
-Git · GitHub · Postman · Figma · Notion · Jira  
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma,notion)](https://skillicons.dev)
+Git · GitHub · Postman · Figma · Notion · Jira · Docker   
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma,notion,docker)](https://skillicons.dev)
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="48" alt="Jira" />
 
 ---
