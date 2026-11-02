@@ -1,5 +1,5 @@
-# 👋 안녕하세요, **황지민**입니다
-### AI 개발자  
+# 안녕하세요, **황지민**입니다
+### AI 서비스/솔루션 개발자  
 [![자세히 보기 (Notion)](https://img.shields.io/badge/이력서_자세히_보기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2553cc1e521e80629bf9c4af1be128b3?source=copy_link)
 [![Download PDF](https://img.shields.io/badge/📄_포트폴리오_PDF_다운로드-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/jiminh03/jiminh03/blob/master/포트폴리오_황지민.pdf)    
 
