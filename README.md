@@ -82,7 +82,7 @@ Git · GitHub · Postman · Figma · Notion · Jira · Docker
 **역할:** 팀장 (모델 설계 및 데이터 파이프라인 총괄)  
 - Tiny YOLO + AlphaPose + ST-GCN 모델 구성  
 - 모바일 앱 프로토타입 제작 및 현장 테스트 수행  
-- **스택:** Python, PyTorch, YOLO, AlphaPose, ST-GCN  
+- **스택:** Python, PyTorch, Tiny YOLO, AlphaPose, ST-GCN  
 
 ---
 
