@@ -9,8 +9,8 @@ Python · JavaScript · TypeScript
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
 
 ### 🖥️ 프론트엔드
-HTML5 · CSS3 · Vue.js · React · React Native  · Next.js   
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,react,next)](https://skillicons.dev)
+HTML5 · Vue.js · React · React Native  · Next.js   
+[![My Skills](https://skillicons.dev/icons?i=html,vue,react,next)](https://skillicons.dev)
 
 ### 🧩 백엔드
 Django · Django REST Framework  · FastAPI   
