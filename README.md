@@ -5,8 +5,8 @@
 ## 🛠️ 기술 스택
 
 ### ⚙️ 프로그래밍 언어
-Python · JavaScript · TypeScript    
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
+Python · JavaScript · TypeScript · Java     
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java)](https://skillicons.dev)
 
 ### 🖥️ 프론트엔드
 HTML5 · Vue.js · React · React Native  · Next.js   
