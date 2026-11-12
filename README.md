@@ -21,8 +21,8 @@ SQLite  · PostgreSQL
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql)](https://skillicons.dev)
 
 ### 🤝 협업 · 기타
-Git · GitHub · Postman · Figma · Notion · Jira · Docker   
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma,notion,docker)](https://skillicons.dev)
+Git · GitHub · Postman · Figma · Notion · Jira · Docker · Confluence   
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma,notion,docker,confluence)](https://skillicons.dev)
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="48" alt="Jira" />
 
 ---
